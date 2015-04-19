@@ -68,6 +68,7 @@ public class Indexer {
     public static void main(String[] args) throws IOException {
         // Checking if arg[0] is there and if it is a directory.
         boolean passed = false;
+        //args[0]= "/TestImages/";
         if (args.length > 0) {
             File f = new File(args[0]);
             System.out.println("Indexing images in " + args[0]);

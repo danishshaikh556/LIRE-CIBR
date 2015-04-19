@@ -55,7 +55,7 @@ import java.io.IOException;
 
 /**
  * User: Mathias Lux, mathias@juggle.at
- * Date: 25.05.12
+ * Date: 25.05.12/VisualSearch/TestImages/a2b82c87a9c03fa07fa9dcd2403c88c8.jpg
  * Time: 12:19
  */
 public class Searcher {
